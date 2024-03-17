@@ -7,6 +7,7 @@ This repository contains TypeScript implementations of various data structures c
 - [Stack](#stack)
 - [Queue](#queue)
 - [Linked List](#linked-list)
+- [Binary Search Tree](#binary-search-tree)
 
 ## Stack
 
@@ -19,6 +20,10 @@ The `Queue` class represents a First-In-First-Out (FIFO) data structure. It supp
 ## Linked List
 
 The `LinkedList` class represents a linked list data structure. It supports operations such as adding elements to the list, inserting elements at specific positions, removing elements from the list, and printing the list contents.
+
+## Binary Search Tree
+
+The `BinarySearchTree` class represents a binary search tree data structure. It supports operations such as inserting elements into the tree, removing elements from the tree, performing traversals (inorder, preorder, and postorder), searching for elements in the tree, and more.
 
 ## Usage
 
